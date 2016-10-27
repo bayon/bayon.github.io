@@ -1,3 +1,3 @@
-var foo = function(){
-	alert('monkeys');
+function foo(){
+	console.log('monkeys');
 }
