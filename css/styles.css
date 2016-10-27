@@ -3,5 +3,6 @@ body{
 }
 .anim_obj{
 	position:absolute;
-	
+	left:50%;
+	top:5%;
 }
